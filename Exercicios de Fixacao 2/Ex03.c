@@ -28,4 +28,5 @@ int main() {
     else {
         printf("Conceito: E");
     }
+    return 0;
 }

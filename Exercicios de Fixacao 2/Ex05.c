@@ -10,4 +10,5 @@ int main() {
     } else {
         printf("Voce e maior de idade");
     }
+    return 0;
 }
